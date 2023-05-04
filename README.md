@@ -1,6 +1,6 @@
 # Marcus Piri
 
-**Frontend/App Developer** | Stockholm | [LinkedIn](https://www.linkedin.com/in/marcus-piri-968a61221/) | marcus.piri@cmeducations.se | https://marcuspiri.dev/
+**Junior Frontend/App Developer** | Stockholm | [LinkedIn](https://www.linkedin.com/in/marcus-piri-968a61221/) | marcus.piri@cmeducations.se | https://marcuspiri.dev/
 
 ## Summary and Objectives
 
